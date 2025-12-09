@@ -239,8 +239,8 @@ else:
             st.markdown("### 📋 Informations")
             st.markdown(f"**Fichier:**")
             st.code(image_name, language=None)
-            st.markdown(f"**Label original:**  \n`{question['label']}`")
-            st.markdown(f"**Prédiction IA:**  \n`{question['prediction']}`")
+            # st.markdown(f"**Label original:**  \n`{question['label']}`")
+            # st.markdown(f"**Prédiction IA:**  \n`{question['prediction']}`")
         
         st.markdown("---")
         
@@ -320,3 +320,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
