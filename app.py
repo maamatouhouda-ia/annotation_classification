@@ -190,13 +190,13 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Interface principale
-st.title("🔍 Annotation d'images - Contrôle qualité")
+st.title("🔍 Classification d'images - Contrôle qualité")
 st.markdown("---")
 
 # Écran de démarrage
 if not st.session_state.started:
     st.markdown("""
-    ### Bienvenue dans l'outil d'annotation
+    ### Bienvenue dans l'outil de classification
     
     Ce formulaire vous permet de vérifier et corriger les prédictions du modèle d'IA.
     
@@ -462,5 +462,6 @@ st.markdown("""
     Outil d'annotation - Version 2.0 (Deux sources) | Développé par Houda MAAMATOU avec Streamlit
 </div>
 """, unsafe_allow_html=True)
+
 
 
