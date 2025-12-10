@@ -459,7 +459,8 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; font-size: 0.8rem;'>
-    Outil d'annotation - Version 2.0 (Deux sources) | Développé avec Streamlit
+    Outil d'annotation - Version 2.0 (Deux sources) | Développé par Houda MAAMATOU avec Streamlit
 </div>
 """, unsafe_allow_html=True)
+
 
