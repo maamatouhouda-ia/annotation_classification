@@ -25,7 +25,7 @@ data = [{'image': '20250327_155806_700000_006404_1.png', 'label': 'faiencage', '
 
 data2 = [{'image': '20250327_143847_400000_004306_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '20250327_143847_400000_004603_3.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': '20250327_143847_400000_007345_2.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': '20250327_155806_700000_006074_1.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': '20250327_155806_700000_006487_5.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '20250612_090537_gx010001_f_1058_photo_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': '20250612_090537_gx010001_f_12087_photo_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '20250612_090537_gx010001_f_6581_photo_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': '20250612_090537_gx010001_f_9036_photo_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '20250612_091811_gx010002_f_2667_photo_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '20250612_091811_gx010002_f_5221_photo_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': '20250612_091811_gx010002_f_5311_photo_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': '20250612_091811_gx010002_f_6749_photo_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_094805_233_004551_1.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_094805_233_007204_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_005693_2.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_006034_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_007394_0.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_008466_13.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_008831_2.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_008874_4.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009197_3.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009701_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009738_4.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009899_4.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_010065_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_010286_1.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_010775_2.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_004007_1.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_004195_4.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_004366_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_002881_9.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_003208_3.png', 'label': 'faiencage', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_003560_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_003606_3.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114035_586_000147_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_004578_4.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_004881_5.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_005580_0.png', 'label': 'faiencage', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_005596_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_005596_3.png', 'label': 'faiencage', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logi_cam_1_20221002_140641_542_009300_0.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_002425_2.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131605_356_003157_8.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131605_356_003498_2.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_000090_3.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_003690_4.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_009945_2.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_004793_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_009728_8.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_009883_2.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_010230_1.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_010251_10.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_010251_11.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125138_894_005253_12.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125138_894_005806_7.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125138_894_006101_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125138_894_009768_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130339_425_006731_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_131539_943_001797_2.png', 'label': 'faiencage', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_132140_245_005079_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_133913_494_004636_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_143050_080_005810_3.png', 'label': 'faiencage', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_143050_080_008022_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_004991_2.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_006495_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_007120_2.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_007679_0.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'La Chevroliere_Avant_Logiroad-Cam 1_20240730_085232_352_008297_5.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_092642_327_006567_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_092642_327_009617_1.png', 'label': 'faiencage', 'prediction': 'faiencage'}, {'image': '20250327_143847_400000_007045_5.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250327_143847_400000_007345_2.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': '20250327_155806_700000_004047_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250327_155806_700000_005353_0.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': '20250327_155806_700000_006496_6.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250327_155806_700000_006657_8.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': '20250612_090537_gx010001_f_1750_photo_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250612_090537_gx010001_f_2565_photo_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250612_090537_gx010001_f_3330_photo_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250612_090537_gx010001_f_8320_photo_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250612_091811_gx010002_f_10034_photo_3.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': '20250612_091811_gx010002_f_10489_photo_8.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': '20250612_091811_gx010002_f_11236_photo_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '20250612_091811_gx010002_f_9913_photo_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_094805_233_007240_4.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_095613_865_000813_4.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '8Mayo_Avant_no_name_20241013_101744_755_001267_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '8Mayo_Avant_no_name_20241013_102208_003_000435_1.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': 'Abedul_Arrière_no_name_20241012_110117_001_002433_3.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Abedul_Arrière_no_name_20241012_110117_001_002845_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Abedul_Arrière_no_name_20241012_110117_001_005199_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Abejones_Avant_no_name_20241027_094126_566_002007_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_006034_0.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009437_3.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_010544_3.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_000022_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_003598_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_003878_11.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_004217_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_004266_1.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_004353_3.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_005469_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_005596_3.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_122737_974_006887_2.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_004691_5.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_004703_0.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_004765_3.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_004809_0.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_005210_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_005281_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_005579_6.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_010179_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_004404_9.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_006320_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_010178_3.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125739_105_001189_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125739_105_001375_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125739_105_002474_8.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130339_425_005556_11.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_002518_0.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_008864_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_131539_943_000274_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_131539_943_000577_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_131539_943_008423_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_132140_245_002253_6.png', 'label': 'fissure_degradee', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_132140_245_002491_1.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_134438_095_003515_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_141925_207_003065_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_143050_080_004400_2.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_003339_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'La Chevroliere_Avant_Logiroad-Cam 1_20240729_153355_853_005476_2.png', 'label': 'fissure_degradee', 'prediction': 'joint_ouvert'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240423_141735_015_007256_4.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_093842_795_005841_6.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_095043_239_005231_5.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_095043_239_005635_0.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_095043_239_007213_7.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_100243_870_003509_2.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_101444_229_005710_1.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_101444_229_006861_4.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_104445_670_006057_0.png', 'label': 'fissure_degradee', 'prediction': 'faiencage'}, {'image': 'Stenay_goproMax_20240215_121405_010199_0.png', 'label': 'fissure_degradee', 'prediction': 'fissure_degradee'}, {'image': '10 de navarro_Avant_no_name_20241027_091836_433_001846_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250327_155806_700000_001137_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250327_155806_700000_002367_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250327_155806_700000_003753_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250327_155806_700000_010027_0.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': '20250612_090537_gx010001_f_11260_photo_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_degradee'}, {'image': '20250612_090537_gx010001_f_1163_photo_4.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': '20250612_090537_gx010001_f_12707_photo_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250612_091811_gx010002_f_10957_photo_6.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250612_091811_gx010002_f_1160_photo_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '20250612_091811_gx010002_f_1169_photo_5.png', 'label': 'fissure_significative', 'prediction': 'fissure_degradee'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_005479_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_006377_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_007529_0.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_007603_1.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_007623_4.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_008930_1.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009275_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009286_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009358_0.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009369_2.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_091817_546_009885_5.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_000121_2.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_000225_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_000247_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_004211_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_004872_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_009610_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_009716_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_009890_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114035_586_004229_1.png', 'label': 'fissure_significative', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114035_586_004656_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114636_003_009291_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115236_265_008019_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_002551_1.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_004515_2.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_006998_3.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_120436_859_004112_0.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_120436_859_004720_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_120436_859_008944_3.png', 'label': 'fissure_significative', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logi_cam_1_20221002_140007_673_003671_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_002129_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_002376_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_002468_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_002494_5.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_004869_4.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_006205_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_006886_1.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131005_165_008545_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131605_356_003033_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131605_356_003464_5.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241007_131605_356_003464_7.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130339_425_009388_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_001487_5.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_002802_0.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_004843_2.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_132140_245_004394_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_134438_095_003121_0.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_142449_810_002218_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_142449_810_003968_2.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_142449_810_008185_1.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_001712_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_006861_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144850_978_006625_2.png', 'label': 'fissure_significative', 'prediction': 'faiencage'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144850_978_008631_0.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'La Chevroliere_Avant_Logiroad-Cam 1_20240729_135751_656_003244_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'le_port_av_E009_20240229_083030_365_1709181649162000_6.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240423_144136_123_001993_2.png', 'label': 'fissure_significative', 'prediction': 'joint_ouvert'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240423_151137_539_004256_1.png', 'label': 'fissure_significative', 'prediction': 'joint_ouvert'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_092041_831_002571_2.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_102644_958_007512_3.png', 'label': 'fissure_significative', 'prediction': 'fissure_significative'}, {'image': '10 de navarro_Avant_no_name_20241027_091836_433_001698_3.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250327_143847_400000_001429_0.png', 'label': 'joint_ouvert', 'prediction': 'fissure_significative'}, {'image': '20250327_143847_400000_001429_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250327_143847_400000_001546_6.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250327_143847_400000_002832_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250327_143847_400000_006769_5.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': '20250327_155806_700000_005379_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250327_155806_700000_010439_5.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250612_090537_gx010001_f_11499_photo_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250612_090537_gx010001_f_12159_photo_3.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250612_090537_gx010001_f_6599_photo_0.png', 'label': 'joint_ouvert', 'prediction': 'fissure_significative'}, {'image': '20250612_091811_gx010002_f_1037_photo_3.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250612_091811_gx010002_f_1484_photo_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250612_091811_gx010002_f_2895_photo_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '20250612_091811_gx010002_f_9270_photo_3.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_094805_233_007172_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_095613_865_000000_2.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': '2daNte 3 Ote_Avant_no_name_20241006_095613_865_002421_7.png', 'label': 'joint_ouvert', 'prediction': 'faiencage'}, {'image': 'Abejones_Avant_no_name_20241027_094126_566_002070_3.png', 'label': 'joint_ouvert', 'prediction': 'fissure_significative'}, {'image': 'Acanceh Tizimin 1_Avant_no_name_20241027_092342_314_001663_5.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_005093_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_006387_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_007775_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_113435_357_009817_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114035_586_002113_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114035_586_004088_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114636_003_001950_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_114636_003_002545_4.png', 'label': 'joint_ouvert', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115236_265_000000_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115236_265_000000_2.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115236_265_010171_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115236_265_010481_1.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_001015_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_115836_351_001015_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_120436_859_005714_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_120436_859_007927_1.png', 'label': 'joint_ouvert', 'prediction': 'faiencage'}, {'image': 'Barcelona_Avant_Logiroad-Cam 1_20240625_120436_859_008944_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logi_cam_1_20221002_140007_673_003144_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Barcelona_Avant_Logi_cam_1_20221002_154209_995_003761_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_004741_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123338_144_005387_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_123938_373_009067_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_124538_639_009054_0.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125138_894_006329_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125138_894_006508_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125739_105_002676_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125739_105_003020_1.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_125739_105_010131_3.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130339_425_007163_3.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_002393_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_002393_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_130939_895_006321_0.png', 'label': 'joint_ouvert', 'prediction': 'fissure_significative'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_131539_943_000566_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_131539_943_000746_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_132140_245_001743_4.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_132140_245_001842_6.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_133913_494_004597_5.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_133913_494_006593_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_134438_095_007192_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_142449_810_007233_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_142449_810_007296_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_142449_810_007429_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144250_668_010046_1.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Castres_Avant_Logi_cam_1_20241029_144850_978_002388_4.png', 'label': 'joint_ouvert', 'prediction': 'faiencage'}, {'image': 'La Chevroliere_Avant_Logiroad-Cam 1_20240729_152755_599_002386_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'La Chevroliere_Avant_Logiroad-Cam 1_20240730_111122_146_004961_0.png', 'label': 'joint_ouvert', 'prediction': 'joint_ouvert'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240423_154416_977_006276_8.png', 'label': 'joint_ouvert', 'prediction': 'faiencage'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240423_155017_324_001032_0.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_090841_406_004951_0.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_095043_239_006079_1.png', 'label': 'joint_ouvert', 'prediction': 'fissure_degradee'}, {'image': 'Pont Saint Martin_Avant_Logiroad-Cam 1_20240424_100243_870_009208_0.png', 'label': 'joint_ouvert', 'prediction': 'faiencage'}]
 
-# Combiner les données avec l'indication du dossier source
+# Combiner les données
 questions = []
 for item in data:
     new_item = item.copy()
@@ -37,11 +37,18 @@ for item in data2:
     new_item['source_folder'] = 'validation'
     questions.append(new_item)
 
-# Filtrer pour garder seulement les erreurs de prédiction
+# Filtrer pour garder seulement les erreurs
 questions = [item for item in questions if item['label'] != item['prediction']]
 
-# Initialisation de la session
-if "responses" not in st.session_state:
+# Dossier pour les sauvegardes
+SAVE_FOLDER = "sauvegardes_annotations"
+if not os.path.exists(SAVE_FOLDER):
+    os.makedirs(SAVE_FOLDER)
+
+# ==================== FONCTIONS UTILITAIRES ====================
+
+def initialize_responses():
+    """Initialise ou réinitialise complètement les réponses"""
     st.session_state.responses = {}
     for i, q in enumerate(questions):
         st.session_state.responses[i] = {
@@ -49,18 +56,84 @@ if "responses" not in st.session_state:
             "commentaire": ""
         }
 
-if "current_question" not in st.session_state:
+def reset_session():
+    """Réinitialise complètement la session"""
     st.session_state.current_question = 0
-
-if "annotator_name" not in st.session_state:
     st.session_state.annotator_name = ""
-
-if "started" not in st.session_state:
     st.session_state.started = False
+    initialize_responses()
 
-# Fonction de sauvegarde
+def get_save_filepath(annotator_name):
+    """Génère le chemin du fichier de sauvegarde pour un annotateur"""
+    safe_name = "".join(c for c in annotator_name if c.isalnum() or c in (' ', '_')).strip()
+    safe_name = safe_name.replace(' ', '_')
+    return os.path.join(SAVE_FOLDER, f"sauvegarde_{safe_name}.json")
+
+def save_progress():
+    """Sauvegarde la progression actuelle"""
+    if not st.session_state.annotator_name:
+        return False, "Nom d'annotateur manquant"
+    
+    save_data = {
+        "annotateur": st.session_state.annotator_name,
+        "date_sauvegarde": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "current_question": st.session_state.current_question,
+        "responses": st.session_state.responses,
+        "total_questions": len(questions)
+    }
+    
+    filepath = get_save_filepath(st.session_state.annotator_name)
+    try:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            json.dump(save_data, f, ensure_ascii=False, indent=2)
+        return True, f"Sauvegarde réussie dans {filepath}"
+    except Exception as e:
+        return False, f"Erreur de sauvegarde : {str(e)}"
+
+def load_progress(annotator_name):
+    """Charge une sauvegarde existante - CORRECTION: Convertit les clés en int"""
+    filepath = get_save_filepath(annotator_name)
+    if not os.path.exists(filepath):
+        return None, "Aucune sauvegarde trouvée"
+    
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            save_data = json.load(f)
+        
+        # CORRECTION IMPORTANTE : Convertir les clés string en int
+        if 'responses' in save_data:
+            save_data['responses'] = {
+                int(k): v for k, v in save_data['responses'].items()
+            }
+        
+        return save_data, "Sauvegarde chargée avec succès"
+    except Exception as e:
+        return None, f"Erreur de chargement : {str(e)}"
+
+def list_saved_sessions():
+    """Liste toutes les sessions sauvegardées"""
+    if not os.path.exists(SAVE_FOLDER):
+        return []
+    
+    saves = []
+    for filename in os.listdir(SAVE_FOLDER):
+        if filename.startswith("sauvegarde_") and filename.endswith(".json"):
+            filepath = os.path.join(SAVE_FOLDER, filename)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    saves.append({
+                        'annotateur': data.get('annotateur', 'Inconnu'),
+                        'date': data.get('date_sauvegarde', 'Inconnue'),
+                        'progression': f"{data.get('current_question', 0)}/{data.get('total_questions', len(questions))}",
+                        'filename': filename
+                    })
+            except:
+                continue
+    return saves
+
 def save_responses():
-    """Sauvegarde les réponses dans un fichier JSON"""
+    """Sauvegarde les réponses finales dans un fichier JSON"""
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
     results = {
@@ -81,24 +154,20 @@ def save_responses():
     
     return results
 
-# Fonction d'envoi d'email
 def send_email_with_results(results_data, csv_content):
     """Envoie les résultats par email"""
-    # CONFIGURATION EMAIL - À PERSONNALISER
-    smtp_server = "smtp.gmail.com"  # Pour Gmail
+    smtp_server = "smtp.gmail.com"
     smtp_port = 587
-    sender_email = "maamatou.houda@gmail.com"  # VOTRE EMAIL
-    sender_password = "fziq atni xvlb ynwl"  # MOT DE PASSE D'APPLICATION
-    receiver_email = "houda.maamatou@logiroad-center.com"  # EMAIL DU DESTINATAIRE
+    sender_email = "maamatou.houda@gmail.com"
+    sender_password = "fziq atni xvlb ynwl"
+    receiver_email = "houda.maamatou@logiroad-center.com"
     
     try:
-        # Créer le message
         msg = MIMEMultipart()
         msg['From'] = sender_email
         msg['To'] = receiver_email
         msg['Subject'] = f"Annotations - {results_data['annotateur']} - {results_data['date']}"
         
-        # Corps de l'email
         body = f"""
 Bonjour,
 
@@ -116,7 +185,6 @@ Système d'annotation automatique
         
         msg.attach(MIMEText(body, 'plain'))
         
-        # Attacher le fichier CSV
         csv_attachment = MIMEBase('application', 'octet-stream')
         csv_attachment.set_payload(csv_content)
         encoders.encode_base64(csv_attachment)
@@ -126,7 +194,6 @@ Système d'annotation automatique
         )
         msg.attach(csv_attachment)
         
-        # Envoyer l'email
         server = smtplib.SMTP(smtp_server, smtp_port)
         server.starttls()
         server.login(sender_email, sender_password)
@@ -138,29 +205,44 @@ Système d'annotation automatique
     except Exception as e:
         return False, f"Erreur lors de l'envoi: {str(e)}"
 
-# Fonction pour trouver le chemin de l'image
 def get_image_path(question):
     """Trouve le chemin de l'image selon son dossier source"""
     source_folder = question['source_folder']
     label = question['label']
     image_name = question['image']
     
-    # Chemins possibles
     possible_paths = [
-        os.path.join(source_folder, label, image_name),  # source_folder/label/image
-        os.path.join(source_folder, image_name),         # source_folder/image
-        image_name                                        # image seule
+        os.path.join(source_folder, label, image_name),
+        os.path.join(source_folder, image_name),
+        image_name
     ]
     
-    # Retourner le premier chemin qui existe
     for path in possible_paths:
         if os.path.exists(path):
             return path, True
     
-    # Si aucun chemin n'existe, retourner le chemin préféré
     return possible_paths[0], False
 
-# CSS personnalisé
+# ==================== INITIALISATION SESSION STATE ====================
+
+# Initialisation de la session
+if "responses" not in st.session_state:
+    initialize_responses()
+
+if "current_question" not in st.session_state:
+    st.session_state.current_question = 0
+
+if "annotator_name" not in st.session_state:
+    st.session_state.annotator_name = ""
+
+if "started" not in st.session_state:
+    st.session_state.started = False
+
+if "auto_save_enabled" not in st.session_state:
+    st.session_state.auto_save_enabled = True
+
+# ==================== CSS PERSONNALISÉ ====================
+
 st.markdown("""
     <style>
     .stProgress > div > div > div > div {
@@ -186,14 +268,23 @@ st.markdown("""
         background-color: #f3e5f5;
         color: #7b1fa2;
     }
+    .save-info {
+        background-color: #e8f5e9;
+        padding: 10px;
+        border-radius: 8px;
+        border-left: 4px solid #4caf50;
+        margin: 10px 0;
+    }
     </style>
     """, unsafe_allow_html=True)
 
-# Interface principale
+# ==================== INTERFACE PRINCIPALE ====================
+
 st.title("🔍 Classification d'images - Contrôle qualité")
 st.markdown("---")
 
-# Écran de démarrage
+# ==================== ÉCRAN DE DÉMARRAGE ====================
+
 if not st.session_state.started:
     st.markdown("""
     ### Bienvenue dans l'outil de classification
@@ -203,22 +294,67 @@ if not st.session_state.started:
     **Instructions:**
     - Pour chaque image, confirmez le bon label
     - Ajoutez un commentaire si nécessaire
-    - Vos réponses seront automatiquement sauvegardées à la fin
+    - Votre travail est **automatiquement sauvegardé** toutes les 5 réponses
+    - Vous pouvez reprendre votre travail plus tard
     """)
     
-    name = st.text_input("Votre nom/prénom:", key="name_input")
+    # Choix entre nouvelle session et reprise
+    tab1, tab2 = st.tabs(["📝 Nouvelle annotation", "📂 Reprendre une session"])
     
-    col1, col2 = st.columns([1, 1])
-    with col1:
-        if st.button("Commencer l'annotation", type="primary", width='stretch'):
+    with tab1:
+        st.markdown("#### Commencer une nouvelle session")
+        name = st.text_input("Votre nom/prénom:", key="name_input_new")
+        
+        if st.button("Commencer l'annotation", type="primary", key="start_new"):
             if name.strip():
-                st.session_state.annotator_name = name.strip()
-                st.session_state.started = True
-                st.rerun()
+                # Vérifier si une sauvegarde existe
+                save_data, msg = load_progress(name.strip())
+                if save_data:
+                    st.warning(f"⚠️ Une sauvegarde existe déjà pour '{name.strip()}' avec {save_data['current_question']}/{save_data['total_questions']} questions annotées.")
+                    st.info("💡 Allez dans l'onglet 'Reprendre une session' pour continuer, ou utilisez un autre nom.")
+                else:
+                    # CORRECTION : Réinitialiser complètement pour une nouvelle session
+                    st.session_state.annotator_name = name.strip()
+                    st.session_state.current_question = 0
+                    initialize_responses()
+                    st.session_state.started = True
+                    st.rerun()
             else:
                 st.error("⚠️ Veuillez entrer votre nom")
     
-    # Statistiques des sources
+    with tab2:
+        st.markdown("#### Reprendre une session sauvegardée")
+        
+        saved_sessions = list_saved_sessions()
+        
+        if saved_sessions:
+            st.markdown(f"**{len(saved_sessions)} session(s) trouvée(s):**")
+            
+            for session in saved_sessions:
+                col1, col2, col3, col4 = st.columns([3, 2, 2, 2])
+                with col1:
+                    st.write(f"👤 {session['annotateur']}")
+                with col2:
+                    st.write(f"📊 {session['progression']}")
+                with col3:
+                    st.write(f"🕒 {session['date']}")
+                with col4:
+                    if st.button("Reprendre", key=f"load_{session['filename']}"):
+                        save_data, msg = load_progress(session['annotateur'])
+                        if save_data:
+                            st.session_state.annotator_name = save_data['annotateur']
+                            st.session_state.current_question = save_data['current_question']
+                            st.session_state.responses = save_data['responses']
+                            st.session_state.started = True
+                            st.success(f"✅ Session de {session['annotateur']} chargée!")
+                            st.rerun()
+                        else:
+                            st.error(msg)
+                st.markdown("---")
+        else:
+            st.info("Aucune session sauvegardée trouvée.")
+    
+    # Statistiques
     test_count = sum(1 for q in questions if q['source_folder'] == 'test')
     validation_count = sum(1 for q in questions if q['source_folder'] == 'validation')
     
@@ -229,26 +365,55 @@ if not st.session_state.started:
         st.metric("🔵 Test", test_count)
     with col_stat3:
         st.metric("🟣 Validation", validation_count)
-    
-    # Section info
-    st.markdown("ℹ️ Informations complémentaires")
-    st.markdown("""
-        **Catégories disponibles:**
-        - `faiencage`: Faïençage
-        - `fissure_degradee`: Fissure dégradée
-        - `fissure_significative`: Fissure significative
-        - `joint_ouvert`: Joint ouvert 
-        
-        **Sources des images:**
-        - 🔵 **Test**: Images du dossier `test/`
-        - 🟣 **Validation**: Images du dossier `validation/`
-        
-        **Temps estimé:** ~{} minutes ({}s par image)
-        """.format(len(questions) // 2, 30))
+
+# ==================== INTERFACE D'ANNOTATION ====================
 
 else:
-    # Interface d'annotation
     q_idx = st.session_state.current_question
+
+    # CORRECTION : Vérifier que la clé existe avant d'y accéder
+    if q_idx not in st.session_state.responses:
+        st.session_state.responses[q_idx] = {
+            "label_choisi": "",
+            "commentaire": ""
+        }
+    
+    # Bouton de sauvegarde manuelle dans la sidebar
+    with st.sidebar:
+        st.markdown("### 💾 Sauvegarde")
+        st.markdown(f"**Annotateur:** {st.session_state.annotator_name}")
+        st.markdown(f"**Progression:** {q_idx}/{len(questions)}")
+        
+        if st.button("💾 Sauvegarder maintenant", key="manual_save", use_container_width=True):
+            success, msg = save_progress()
+            if success:
+                st.success("✅ Sauvegarde réussie!")
+            else:
+                st.error(f"❌ {msg}")
+        
+        st.markdown("---")
+        st.markdown("#### ⚙️ Options")
+        
+        auto_save = st.checkbox(
+            "Sauvegarde automatique (toutes les 5 réponses)",
+            value=st.session_state.auto_save_enabled,
+            key="auto_save_checkbox"
+        )
+        st.session_state.auto_save_enabled = auto_save
+        
+        if st.button("🏠 Retour à l'accueil", use_container_width=True):
+            # Sauvegarder avant de quitter
+            if st.session_state.auto_save_enabled:
+                save_progress()
+            # CORRECTION : Réinitialisation complète
+            reset_session()
+            st.rerun()
+        
+        st.markdown("---")
+        st.markdown("#### 📊 Statistiques")
+        completed = sum(1 for r in st.session_state.responses.values() if r["label_choisi"] != "")
+        st.metric("Complétées", f"{completed}/{len(questions)}")
+        st.progress(completed / len(questions))
     
     # Vérifier si on a terminé
     if q_idx >= len(questions):
@@ -272,21 +437,28 @@ else:
         df = pd.DataFrame(results_list)
         csv_content = df.to_csv(index=False).encode('utf-8')
         
-        # Envoyer l'email automatiquement
+        # Envoyer l'email
         with st.spinner("Envoi des résultats par email..."):
             success, message = send_email_with_results(results_data, csv_content)
         
         if success:
             st.success(f"✅ {message}")
+            # Supprimer la sauvegarde temporaire après envoi réussi
+            try:
+                filepath = get_save_filepath(st.session_state.annotator_name)
+                if os.path.exists(filepath):
+                    os.remove(filepath)
+                    st.info("🗑️ Sauvegarde temporaire supprimée")
+            except:
+                pass
         else:
             st.error(f"❌ {message}")
-            st.info("💾 Vous pouvez télécharger les résultats ci-dessous en cas d'échec de l'envoi.")
+            st.info("💾 Vous pouvez télécharger les résultats ci-dessous.")
         
-        # Résumé (optionnel - peut être masqué si vous ne voulez pas l'afficher)
+        # Résumé
         with st.expander("📊 Voir le résumé des annotations", expanded=False):
-            st.dataframe(df, width='stretch')
+            st.dataframe(df, use_container_width=True)
             
-            # Statistiques
             col1, col2, col3, col4 = st.columns(4)
             with col1:
                 agree_with_original = sum(1 for r in results_data["annotations"] if r["label_choisi"] == r["label_original"])
@@ -301,8 +473,8 @@ else:
                 val_annotated = sum(1 for r in results_data["annotations"] if r["source_folder"] == "validation")
                 st.metric("Images Validation", val_annotated)
         
-        # Boutons de téléchargement (backup)
-        st.markdown("### 💾 Téléchargement de sauvegarde")
+        # Téléchargements
+        st.markdown("### 💾 Téléchargement des résultats")
         col1, col2 = st.columns(2)
         
         with col1:
@@ -311,7 +483,7 @@ else:
                 data=csv_content,
                 file_name=f"annotations_{st.session_state.annotator_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv",
                 mime="text/csv",
-                width='stretch'
+                use_container_width=True
             )
         
         with col2:
@@ -321,13 +493,12 @@ else:
                 data=json_str,
                 file_name=f"annotations_{st.session_state.annotator_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json",
                 mime="application/json",
-                width='stretch'
+                use_container_width=True
             )
         
-        if st.button("🔄 Faire une nouvelle annotation", width='stretch'):
-            st.session_state.started = False
-            st.session_state.current_question = 0
-            st.session_state.responses = {}
+        if st.button("🔄 Faire une nouvelle annotation", use_container_width=True):
+            # CORRECTION : Réinitialisation complète
+            reset_session()
             st.rerun()
     
     else:
@@ -348,15 +519,6 @@ else:
         </div>
         """, unsafe_allow_html=True)
         
-        # Informations sur l'annotateur
-        col_info1, col_info2 = st.columns([3, 1])
-        with col_info1:
-            st.markdown(f"**Annotateur:** {st.session_state.annotator_name}")
-        with col_info2:
-            if st.button("🏠 Accueil"):
-                st.session_state.started = False
-                st.rerun()
-        
         st.markdown("---")
         
         # Affichage de l'image
@@ -373,32 +535,25 @@ else:
             )
             st.markdown("\n")
             img = Image.open(image_path)
-
             st.image(img)
-
         else:
             st.warning("⚠️ Image non trouvée localement")
             st.info(f"📁 Chemin attendu : `{image_path}`")
-            st.markdown(f"""
-            **Note:** L'image devrait se trouver dans le dossier **`{question['source_folder']}/`**  
-            Assurez-vous que les images sont bien organisées dans les dossiers correspondants.
-            """)
-
         
         st.markdown("---")
         
         # Zone d'annotation
         st.markdown("### ✏️ Votre annotation")
         
-        # Choix du label
         labels_disponibles = [question["label"], question["prediction"], "Autre"]
         
-        # Gérer l'index par défaut
+        # CORRECTION : Accéder de manière sécurisée
         current_choice = st.session_state.responses[q_idx]["label_choisi"]
+       
         if current_choice in labels_disponibles:
             default_index = labels_disponibles.index(current_choice)
         elif current_choice != "":
-            default_index = 2  # "Autre"
+            default_index = 2
         else:
             default_index = 0
         
@@ -409,7 +564,6 @@ else:
             index=default_index
         )
         
-        # Champ texte si "Autre" est choisi
         if choice == "Autre":
             new_label = st.text_input(
                 "Précisez le nouveau label:",
@@ -423,7 +577,6 @@ else:
         else:
             st.session_state.responses[q_idx]["label_choisi"] = choice
         
-        # Commentaire optionnel
         comment = st.text_area(
             "Commentaire (optionnel):",
             key=f"comment_{q_idx}",
@@ -439,29 +592,33 @@ else:
         col1, col2, col3 = st.columns([1, 2, 1])
         
         with col1:
-            if st.button("⬅️ Précédent", disabled=(q_idx == 0), width='stretch'):
+            if st.button("⬅️ Précédent", disabled=(q_idx == 0), use_container_width=True):
                 st.session_state.current_question -= 1
                 st.rerun()
         
         with col2:
-            # Vérifier si une réponse a été donnée
             has_response = st.session_state.responses[q_idx]["label_choisi"] != ""
             if not has_response:
                 st.warning("⚠️ Veuillez choisir un label avant de continuer")
         
         with col3:
             button_label = "Suivant ➡️" if q_idx < len(questions) - 1 else "✅ Terminer"
-            if st.button(button_label, type="primary", disabled=not has_response, width='stretch'):
+            if st.button(button_label, type="primary", disabled=not has_response, use_container_width=True):
                 st.session_state.current_question += 1
+                
+                # Sauvegarde automatique toutes les 5 questions
+                if st.session_state.auto_save_enabled and (st.session_state.current_question % 5 == 0):
+                    success, msg = save_progress()
+                    if success:
+                        st.toast("💾 Sauvegarde automatique effectuée", icon="✅")
+                
                 st.rerun()
 
-# Footer
+# ==================== FOOTER ====================
+
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; font-size: 0.8rem;'>
-    Outil d'annotation - Version 2.0 (Deux sources) | Développé par Houda MAAMATOU avec Streamlit
+    Outil d'annotation avec sauvegarde automatique - Version 3.1 | Développé par Houda MAAMATOU
 </div>
 """, unsafe_allow_html=True)
-
-
-
